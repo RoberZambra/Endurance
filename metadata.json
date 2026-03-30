@@ -1,0 +1,5 @@
+{
+  "name": "Workout Comparator",
+  "description": "Compare two workout files (GPX or TCX) with detailed metrics for heart rate, speed, and time.",
+  "requestFramePermissions": []
+}
